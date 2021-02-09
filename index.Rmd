@@ -1,0 +1,22 @@
+---
+title: "Home"
+---
+lahanti club yuva aur yuvti ke liye hai jo abhi chakai prakhand ke tin panchayat me kam kar rha hai
+es club lo pure santhal pargana me phailana hai.
+
+This is an example site to demonstrate the people of Lahanti Club. It is made by the Boston team.
+
+
+
+mera nam motilal hansda hai
+
+यह लाहंती क्लब के लोगों को प्रदर्शित करने के लिए एक उदाहरण साइट है। इसे बोस्टन की टीम ने बनाया है।
+
+
+![](https://images.pexels.com/photos/844297/pexels-photo-844297.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
+
+<!-- 
+rmarkdown::render_site()
+-->
+
+

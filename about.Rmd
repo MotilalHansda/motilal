@@ -1,0 +1,42 @@
+---
+title: "About"
+---
+
+This is just a minimal example website. Its content is not meaningful beyond providing an example.
+
+यह सिर्फ एक न्यूनतम उदाहरण वेबसाइट है। एक उदाहरण प्रदान करने से परे इसकी सामग्री सार्थक नहीं है।
+
+<br>
+
+# Contact Us / संपर्क करें
+
+<br>
+
+You can contact us on:
+
+आप हमसे संपर्क कर सकते हैं:
+
+-   Phone No. / फोन नंबर: +91-80080080
+
+-   Email / ईमेल: [lahanticlub\@example.com](mailto:bostonteam@gmail.com){.email}
+
+<br>
+
+# Additional Details / अतिरिक्त जानकारिया
+
+<br>
+
+```{r, echo=FALSE, out.width="49%", out.height="20%", fig.show='hold', fig.align='center'}
+
+knitr::include_graphics(c("https://images.pexels.com/photos/158109/kodiak-brown-bear-adult-portrait-wildlife-158109.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"))
+```
+
+-   The design for this site was adapted from (इस साइट के लिए डिजाइन से अनुकूलित किया गया था) <https://github.com/rstudio/rmarkdown-website-examples>.
+
+-   Image sources:
+
+    -   [Pexels](http://pexels.com){target="_blank"}
+
+    -   <https://www.simpalm.com/wp-content/uploads/2017/05/website-design1.png>
+
+    -   [https://www.eui.eu/Images/ServicesAdmin/AcademicService/Academic-and-Professional- Development/Research-Teaching-Nexus-17Febr-LSE.jpg](https://www.eui.eu/Images/ServicesAdmin/AcademicService/Academic-and-Professional-Development/Research-Teaching-Nexus-17Febr-LSE.jpg)
